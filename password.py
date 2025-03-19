@@ -1,6 +1,7 @@
 import string
 import random
 import streamlit as st
+st.title("Password Strength Meter")
 
 import re
 # step 1
